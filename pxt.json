@@ -1,12 +1,14 @@
 {
     "name": "microturtle",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "dependencies": {
         "core": "*"
     },
     "description": "A LOGO-like turtle library",
     "files": [
         "turtle.ts",
+        "_locales/cs/microturtle-jsdoc-strings.json",
+        "_locales/cs/microturtle-strings.json",
         "README.md"
     ],
     "testFiles": [

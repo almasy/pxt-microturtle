@@ -1,0 +1,18 @@
+{
+    "turtle.forward": "Posune želvu vpřed o daný počet kroků",
+    "turtle.forward|param|steps": "počet kroků, např.: 1",
+    "turtle.back": "Posune želvu zpět o daný počet kroků",
+    "turtle.back|param|steps": "počet kroků, např.: 1",
+    "turtle.turnLeft": "Otočí želvu o 90 stupňů doleva",
+    "turtle.turnRight": "Otočí želvu o 90 stupňů doprava",
+    "turtle.setPosition": "Nastavi novou pozici želvy x: %x|y: %y",
+    "turtle.setPosition|param|x": "horizontální pozice od 0 (vlevo) do 4 (vpravo)",
+    "turtle.setPosition|param|y": "vertíkální pozice od 0 (nahoře) do 4 (dole)",
+    "turtle.pen": "Zvedne nebo položí pero",
+    "turtle.pen|param|mode": "režím pera",
+    "turtle.home": "Přesune želvu do středu obrazovky",
+    "turtle.setBrightness": "Nastaví jas",
+    "turtle.setBrightness|param|brightness": "jas stopy, kterou želva zanechává, např.: 128",
+    "turtle.setSpeed": "Nastaví počet kroků za sekundu",
+    "turtle.setSpeed|param|speed": "počet kroků za sekundu, např.: 25"
+}

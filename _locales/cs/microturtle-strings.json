@@ -1,0 +1,14 @@
+{
+    "turtle.forward|block": "vpřed o %steps|kroků",
+    "turtle.back|block": "vzad o %steps|kroků",
+    "turtle.turnLeft|block": "vlevo vbok",
+    "turtle.turnRight|block": "vpravo vbok",
+    "turtle.setPosition|block": "nastav pozici x: %x|y: %y",
+    "turtle.pen|block": "nastav režim pera %mode",
+    "turtle.home|block": "jdi domů",
+    "turtle.setBrightness|block": "nastav jas %brightness",
+    "turtle.setSpeed|block": "nastav rychlost %speed",
+    "TurtlePenMode.Down|block": "dole",
+    "TurtlePenMode.Up|block": "nahoře",
+    "{id:category}Turtle": "Želva"
+}
